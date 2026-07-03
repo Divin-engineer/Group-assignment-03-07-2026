@@ -97,7 +97,7 @@ its rank within its district, and a running total in district order.
 | 32327/2025 |2 |
 |  30845/2025| 3|
 | 31403/2025 | 4|
-| (add member 5) | |
+|  | |
 
 ## 7. Repository Structure
 
